@@ -11,15 +11,6 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/core" />
-            <option value="$PROJECT_DIR$/core/datamodel" />
-            <option value="$PROJECT_DIR$/core/network" />
-            <option value="$PROJECT_DIR$/core/shared_preference" />
-            <option value="$PROJECT_DIR$/data" />
-            <option value="$PROJECT_DIR$/data/afisha" />
-            <option value="$PROJECT_DIR$/data/events_manager" />
-            <option value="$PROJECT_DIR$/data/user" />
-            <option value="$PROJECT_DIR$/data/user_auth" />
           </set>
         </option>
       </GradleProjectSettings>
