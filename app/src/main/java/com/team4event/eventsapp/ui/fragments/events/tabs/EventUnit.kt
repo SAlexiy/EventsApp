@@ -25,7 +25,7 @@ fun EventUnit(event: Event){
             .padding(vertical = 20.dp)
             ) {
             Box {
-                imageFromURL(event.img!!)
+                imageFromURL("event.img!!")
             }
 
             Column {
